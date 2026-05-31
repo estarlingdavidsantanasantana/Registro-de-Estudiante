@@ -2,10 +2,9 @@
 
 <hr>
 
-<h2>Estudiantes</h2>
+<h2>Estudiante</h2>
 <ul>
   <li><strong>Starling David Santana</strong> —  #17</li>
-  <li><strong>Óscar David Mota</strong> — #13</li>
 </ul>
 
 <h2>Maestro</h2>
@@ -15,12 +14,11 @@
 <p>5TO D2</p>
 
 <h2> Fecha del trabajo</h2>
-<p>31 / 01 / 2026</p>
+<p>31 / 05 / 2026</p>
 
 <h2> ¿En qué consiste el trabajo?</h2>
 <p>
-Este trabajo consiste en la creación de un programa que permite capturar los datos de un empleado,
-validar cada uno de los campos ingresados y posteriormente almacenar esta información en un archivo de texto.
+Registar Estudiantas con el uso de usó try-catch el cual permite capturar errores durante la validación de los datos y mostrar mensajes amigables al usuario sin que el programa se cierre inesperadamente. Aqui se mustra el Nombre completo del estudiante , su Edad , Correo y Numero Telefonico.
 </p>
 
 <h2> Evidencias del funcionamiento </h2>
