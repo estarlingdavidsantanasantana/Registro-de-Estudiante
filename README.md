@@ -33,7 +33,7 @@ Registar Estudiantas con el uso de usó try-catch el cual permite capturar error
 <img src="https://github.com/estarlingdavidsantanasantana/Registro-de-Estudiante/blob/master/Captura%20de%20pantalla%202026-05-31%20170035.png?raw=true"/>
 
 <p><strong> Validación del Nombre </strong></p>
-<img src=""/>
+<img src="https://github.com/estarlingdavidsantanasantana/Registro-de-Estudiante/blob/master/Captura%20de%20pantalla%202026-05-31%20170115.png?raw=true"/>
 
 <p><strong> Datos guardados </strong></p>
 <img src=""/>
