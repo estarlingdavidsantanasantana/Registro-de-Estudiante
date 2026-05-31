@@ -1,4 +1,4 @@
-<h1 align="center"> Datos del Proyecto</h1>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6f60e31-4ce8-4230-bd7c-8727e20e07f3" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d51d19d7-876e-46b2-91f3-30a70d4323c9" /><h1 align="center"> Datos del Proyecto</h1>
 
 <hr>
 
