@@ -26,7 +26,7 @@ validar cada uno de los campos ingresados y posteriormente almacenar esta inform
 <h2> Evidencias del funcionamiento </h2>
 
 <p><strong> Validación de la Edad</strong></p>
-<img src=""/>
+<img src="https://github.com/estarlingdavidsantanasantana/Registro-de-Estudiante/blob/master/Captura%20de%20pantalla%202026-05-31%20165954.png?raw=true"/>
 
 <p><strong> Validacion del Email </strong></p>
 <img src=""/>
