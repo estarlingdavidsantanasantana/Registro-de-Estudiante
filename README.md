@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6f60e31-4ce8-4230-bd7c-8727e20e07f3" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d51d19d7-876e-46b2-91f3-30a70d4323c9" /><h1 align="center"> Datos del Proyecto</h1>
+<h1 align="center"> Datos del Proyecto</h1>
 
 <hr>
 
@@ -36,9 +36,9 @@ Registar Estudiantas con el uso de usó try-catch el cual permite capturar error
 <img src="https://github.com/estarlingdavidsantanasantana/Registro-de-Estudiante/blob/master/Captura%20de%20pantalla%202026-05-31%20170115.png?raw=true"/>
 
 <p><strong> Datos guardados </strong></p>
-<img src=""/>
+<img src="https://github.com/estarlingdavidsantanasantana/Registro-de-Estudiante/blob/master/Captura%20de%20pantalla%202026-05-31%20170149.png?raw=true"/>
 
-<h2>🔗 Clonar el Repositorio</h2>
+
 <p>
 </a>
 </p>
